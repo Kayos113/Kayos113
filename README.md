@@ -1,6 +1,7 @@
 ![](https://github.com/Kayos113/Kayos113/blob/main/assets/GithubBanner.png?raw=true)
 
-<h1 align="center">Hi 👋, I'm William</h1>
+<h2 align="center">Hi 👋</h2>
+<h1 align = "center">I'm William</h1>
 <h3 align="center">A motivated full stack developer from New York</h3>
 
 - 🔭 I’m currently working on [Message in a Bottle](https://github.com/Kayos113/bottle-map)
