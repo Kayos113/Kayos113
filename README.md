@@ -3,13 +3,11 @@
 <h1 align="center">Hi 👋, I'm William</h1>
 <h3 align="center">A motivated full stack developer from New York</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kayos113&label=Profile%20views&color=0e75b6&style=flat" alt="kayos113" /> </p>
-
-- 🔭 I’m currently working on **Message in a Bottle**
+- 🔭 I’m currently working on [Message in a Bottle](https://github.com/Kayos113/bottle-map)
 
 - 🌱 I’m currently learning **geographical data representation with leaflet.js**
 
-- 🤝 I’m looking for help with [a Bottle Map](https://github.com/Kayos113/bottle-map)
+- 🤝 I’m looking for help with a [Bottle Map](https://github.com/Kayos113/bottle-map)
 
 - 💬 Ask me about **react, photography, or video games**
 
