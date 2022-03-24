@@ -4,7 +4,7 @@
 <h1 align = "center">I'm William</h1>
 <h3 align="center">A motivated full stack developer from New York</h3>
 
-- 🔭 I’m currently working on [Trouble Ticketing System]
+- 🔭 I’m currently working on a [Trouble Ticketing System](https://github.com/Kayos113/TroubleTickets)
 
 - 🌱 I’m currently learning **Tailwind.css**
 
