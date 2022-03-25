@@ -4,13 +4,13 @@
 <h1 align = "center">I'm William</h1>
 <h3 align="center">A motivated full stack developer from New York</h3>
 
-- 🔭 I’m currently working on [Message in a Bottle](https://github.com/Kayos113/bottle-map)
+- 🔭 I’m currently working on [Trouble Ticketing System]
 
-- 🌱 I’m currently learning **geographical data representation with leaflet.js**
+- 🌱 I’m currently learning **Tailwind.css**
 
 - 🤝 I’m looking for help with a [Bottle Map](https://github.com/Kayos113/bottle-map)
 
-- 💬 Ask me about **react, photography, or video games**
+- 💬 Ask me about **react, photography, or the nature of the universe**
 
 - 📫 How to reach me **willyknapp@gmail.com**
 
