@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm Will or Kayos.
 
-### About Me: 👨‍💻
+## About Me: 👨‍💻
 
 - 💻 Full Stack Developer
 - ✍ Writer
