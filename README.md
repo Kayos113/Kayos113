@@ -4,15 +4,13 @@
 <h1 align = "center">I'm William</h1>
 <h3 align="center">A motivated full stack developer from New York</h3>
 
-- 🔭 I’m currently working on a [Trouble Ticketing System](https://github.com/Kayos113/TroubleTickets)
+-   🔭 I’m currently working on a [CSS Walking Simulator](https://github.com/Kayos113/walking-simulator) and an [IT Ticketing System](https://github.com/Kayos113/TroubleTickets)
 
-- 🌱 I’m currently learning **Tailwind.css**
+-   🤝 I’m looking for help with a [Career Advice](<>)
 
-- 🤝 I’m looking for help with a [Bottle Map](https://github.com/Kayos113/bottle-map)
+-   💬 Ask me about **react, photography, or the nature of the universe**
 
-- 💬 Ask me about **react, photography, or the nature of the universe**
-
-- 📫 How to reach me **willyknapp@gmail.com**
+-   📫 How to reach me **willyknapp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
