@@ -4,9 +4,9 @@
 <h1 align = "center">I'm William</h1>
 <h3 align="center">A motivated full stack developer from New York</h3>
 
--   🔭 I’m currently working on a [CSS Walking Simulator](https://github.com/Kayos113/walking-simulator) and an [IT Ticketing System](https://github.com/Kayos113/TroubleTickets)
+-   🔭 I’m currently working on a [Wedding RSVP app](https://github.com/Kayos113/HunterKnappWedding) and an [CMS for that app](https://github.com/Kayos113/rsvp-cms)
 
--   🤝 I’m looking for help with a [Career Advice](<>)
+-   🤝 I’m looking for help with [Career Advice](<>)
 
 -   💬 Ask me about **react, photography, or the nature of the universe**
 
